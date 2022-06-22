@@ -1,6 +1,6 @@
 *{margin:0;padding:0;box-sizing:border-box;font-size:0;}
 
-body{background-image: linear-gradient(#E1F5FE, #fff); background-repeat: no-repeat;overflow-x: hidden}
+body{background: linear-gradient(#E1F5FE, #fff); background-repeat: no-repeat;overflow-x: hidden}
 
 .card{padding: 50px;background-color: #1565C0;color: #fff}
 
